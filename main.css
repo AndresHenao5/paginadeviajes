@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+    border: 2px black solid;
+
+}
+header{
+    background-color: aqua;
+    border: 2px black solid;
+}
+nav{
+    background-color: blue;
+    border: 2px black solid;
+}
+article{
+    background-color: brown;
+    border: 2px black solid;
+}
+section{
+    background-color: chocolate;
+    border: 2px red solid;
+}
+aside{
+    border: 2px black solid;
+    align-items:end;
+
+}
+#popo{
+    border: 2px purple solid;
+}
+
+table{
+    width: 100%;
+    display: grid;
+}
+
+td{
+    border: 2px red solid;
+    width: 80%;
+
+}
+tr{
+    border: 2px red solid;
+
+}
